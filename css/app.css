@@ -1,0 +1,21 @@
+.status {
+	width: 0.75em;
+	height: 0.75em;
+	border-radius: 100%;
+	display: inline-block;
+}
+.saque{
+	background-color: #F44336;
+}
+.deposito{
+	background-color: #26a69a;
+}
+.text-danger{
+	color: #a94442;
+}
+.text-success{
+	color: #3c763d;
+}
+.text-white{
+	color: #fff;
+}
